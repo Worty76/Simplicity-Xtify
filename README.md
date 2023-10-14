@@ -6,6 +6,7 @@
 Uploading...
 
 ## Demo
+### Interfaces: https://www.figma.com/file/lTHbrPuVrxlkgYczxKLo0Y/Xtify-Music---Simplicty?type=design&mode=dev
 
 Uploading...
 
@@ -14,7 +15,7 @@ Uploading...
 - Lê Thành Đạt
 - Trần Gia Bảo
 - Đặng Hoàng Kiên
-  
+
 ## Presentation
 Link is uploading...
 
